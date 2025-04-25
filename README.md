@@ -1,2 +1,0 @@
-# NTG
-NTG Test

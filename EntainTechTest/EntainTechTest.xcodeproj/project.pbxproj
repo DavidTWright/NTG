@@ -1,0 +1,619 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B12E1A9E2DBF88270084DDE8 /* Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12E1A6B2DBF88270084DDE8 /* Networking.swift */; };
+		B12E1AA02DBF88270084DDE8 /* EndPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12E1A682DBF88270084DDE8 /* EndPoint.swift */; };
+		B12E1AB42DC244600084DDE8 /* MobileDesignSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12E1AB32DC244600084DDE8 /* MobileDesignSystem.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		B16371E82DBB600000185A6D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B16371D22DBB5FFC00185A6D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B16371D92DBB5FFC00185A6D;
+			remoteInfo = EntainTechTest;
+		};
+		B16371F22DBB600000185A6D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B16371D22DBB5FFC00185A6D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B16371D92DBB5FFC00185A6D;
+			remoteInfo = EntainTechTest;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B12E1A682DBF88270084DDE8 /* EndPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EndPoint.swift; sourceTree = "<group>"; };
+		B12E1A6B2DBF88270084DDE8 /* Networking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Networking.swift; sourceTree = "<group>"; };
+		B12E1AB32DC244600084DDE8 /* MobileDesignSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MobileDesignSystem.swift; sourceTree = "<group>"; };
+		B16371DA2DBB5FFC00185A6D /* EntainTechTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EntainTechTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B16371E72DBB600000185A6D /* EntainTechTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EntainTechTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B16371F12DBB600000185A6D /* EntainTechTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EntainTechTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		B16371DC2DBB5FFC00185A6D /* EntainTechTest */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = EntainTechTest;
+			sourceTree = "<group>";
+		};
+		B16371EA2DBB600000185A6D /* EntainTechTestTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = EntainTechTestTests;
+			sourceTree = "<group>";
+		};
+		B16371F42DBB600000185A6D /* EntainTechTestUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = EntainTechTestUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B16371D72DBB5FFC00185A6D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B16371E42DBB600000185A6D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B16371EE2DBB600000185A6D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B12E1ABE2DC26AAD0084DDE8 /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				B12E1ABF2DC26AC00084DDE8 /* Networking */,
+				B12E1AB32DC244600084DDE8 /* MobileDesignSystem.swift */,
+			);
+			path = Modules;
+			sourceTree = "<group>";
+		};
+		B12E1ABF2DC26AC00084DDE8 /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+				B12E1A682DBF88270084DDE8 /* EndPoint.swift */,
+				B12E1A6B2DBF88270084DDE8 /* Networking.swift */,
+			);
+			path = Networking;
+			sourceTree = "<group>";
+		};
+		B16371D12DBB5FFC00185A6D = {
+			isa = PBXGroup;
+			children = (
+				B12E1ABE2DC26AAD0084DDE8 /* Modules */,
+				B16371DC2DBB5FFC00185A6D /* EntainTechTest */,
+				B16371EA2DBB600000185A6D /* EntainTechTestTests */,
+				B16371F42DBB600000185A6D /* EntainTechTestUITests */,
+				B16371DB2DBB5FFC00185A6D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B16371DB2DBB5FFC00185A6D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B16371DA2DBB5FFC00185A6D /* EntainTechTest.app */,
+				B16371E72DBB600000185A6D /* EntainTechTestTests.xctest */,
+				B16371F12DBB600000185A6D /* EntainTechTestUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B16371D92DBB5FFC00185A6D /* EntainTechTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B16371FB2DBB600000185A6D /* Build configuration list for PBXNativeTarget "EntainTechTest" */;
+			buildPhases = (
+				B16371D62DBB5FFC00185A6D /* Sources */,
+				B16371D72DBB5FFC00185A6D /* Frameworks */,
+				B16371D82DBB5FFC00185A6D /* Resources */,
+				B12E1AB52DC248970084DDE8 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				B16371DC2DBB5FFC00185A6D /* EntainTechTest */,
+			);
+			name = EntainTechTest;
+			packageProductDependencies = (
+			);
+			productName = EntainTechTest;
+			productReference = B16371DA2DBB5FFC00185A6D /* EntainTechTest.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B16371E62DBB600000185A6D /* EntainTechTestTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B16371FE2DBB600000185A6D /* Build configuration list for PBXNativeTarget "EntainTechTestTests" */;
+			buildPhases = (
+				B16371E32DBB600000185A6D /* Sources */,
+				B16371E42DBB600000185A6D /* Frameworks */,
+				B16371E52DBB600000185A6D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B16371E92DBB600000185A6D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				B16371EA2DBB600000185A6D /* EntainTechTestTests */,
+			);
+			name = EntainTechTestTests;
+			packageProductDependencies = (
+			);
+			productName = EntainTechTestTests;
+			productReference = B16371E72DBB600000185A6D /* EntainTechTestTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		B16371F02DBB600000185A6D /* EntainTechTestUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B16372012DBB600000185A6D /* Build configuration list for PBXNativeTarget "EntainTechTestUITests" */;
+			buildPhases = (
+				B16371ED2DBB600000185A6D /* Sources */,
+				B16371EE2DBB600000185A6D /* Frameworks */,
+				B16371EF2DBB600000185A6D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B16371F32DBB600000185A6D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				B16371F42DBB600000185A6D /* EntainTechTestUITests */,
+			);
+			name = EntainTechTestUITests;
+			packageProductDependencies = (
+			);
+			productName = EntainTechTestUITests;
+			productReference = B16371F12DBB600000185A6D /* EntainTechTestUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B16371D22DBB5FFC00185A6D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					B16371D92DBB5FFC00185A6D = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					B16371E62DBB600000185A6D = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = B16371D92DBB5FFC00185A6D;
+					};
+					B16371F02DBB600000185A6D = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = B16371D92DBB5FFC00185A6D;
+					};
+				};
+			};
+			buildConfigurationList = B16371D52DBB5FFC00185A6D /* Build configuration list for PBXProject "EntainTechTest" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B16371D12DBB5FFC00185A6D;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = B16371DB2DBB5FFC00185A6D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B16371D92DBB5FFC00185A6D /* EntainTechTest */,
+				B16371E62DBB600000185A6D /* EntainTechTestTests */,
+				B16371F02DBB600000185A6D /* EntainTechTestUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B16371D82DBB5FFC00185A6D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B16371E52DBB600000185A6D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B16371EF2DBB600000185A6D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		B12E1AB52DC248970084DDE8 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "if command -v swiftlint >/dev/null 2>&1\nthen\n    swiftlint\nelse\n    echo \"warning: `swiftlint` command not found - See https://github.com/realm/SwiftLint#installation for installation instructions.\"\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B16371D62DBB5FFC00185A6D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B12E1AB42DC244600084DDE8 /* MobileDesignSystem.swift in Sources */,
+				B12E1A9E2DBF88270084DDE8 /* Networking.swift in Sources */,
+				B12E1AA02DBF88270084DDE8 /* EndPoint.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B16371E32DBB600000185A6D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B16371ED2DBB600000185A6D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B16371E92DBB600000185A6D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B16371D92DBB5FFC00185A6D /* EntainTechTest */;
+			targetProxy = B16371E82DBB600000185A6D /* PBXContainerItemProxy */;
+		};
+		B16371F32DBB600000185A6D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B16371D92DBB5FFC00185A6D /* EntainTechTest */;
+			targetProxy = B16371F22DBB600000185A6D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		B16371F92DBB600000185A6D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = VMKLFK9MLA;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		B16371FA2DBB600000185A6D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = VMKLFK9MLA;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B16371FC2DBB600000185A6D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VMKLFK9MLA;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DW.nedsNextToGoTest.EntainTechTest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B16371FD2DBB600000185A6D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VMKLFK9MLA;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DW.nedsNextToGoTest.EntainTechTest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		B16371FF2DBB600000185A6D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VMKLFK9MLA;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DW.nedsNextToGoTest.EntainTechTestTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EntainTechTest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/EntainTechTest";
+			};
+			name = Debug;
+		};
+		B16372002DBB600000185A6D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VMKLFK9MLA;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DW.nedsNextToGoTest.EntainTechTestTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EntainTechTest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/EntainTechTest";
+			};
+			name = Release;
+		};
+		B16372022DBB600000185A6D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VMKLFK9MLA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DW.nedsNextToGoTest.EntainTechTestUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = EntainTechTest;
+			};
+			name = Debug;
+		};
+		B16372032DBB600000185A6D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VMKLFK9MLA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DW.nedsNextToGoTest.EntainTechTestUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = EntainTechTest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B16371D52DBB5FFC00185A6D /* Build configuration list for PBXProject "EntainTechTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B16371F92DBB600000185A6D /* Debug */,
+				B16371FA2DBB600000185A6D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B16371FB2DBB600000185A6D /* Build configuration list for PBXNativeTarget "EntainTechTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B16371FC2DBB600000185A6D /* Debug */,
+				B16371FD2DBB600000185A6D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B16371FE2DBB600000185A6D /* Build configuration list for PBXNativeTarget "EntainTechTestTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B16371FF2DBB600000185A6D /* Debug */,
+				B16372002DBB600000185A6D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B16372012DBB600000185A6D /* Build configuration list for PBXNativeTarget "EntainTechTestUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B16372022DBB600000185A6D /* Debug */,
+				B16372032DBB600000185A6D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B16371D22DBB5FFC00185A6D /* Project object */;
+}

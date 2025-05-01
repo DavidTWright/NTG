@@ -1,0 +1,399 @@
+{
+   "status":200,
+   "data":{
+      "next_to_go_ids":[
+         "c11473f8-87d3-4343-8d1a-6b0abaae4398",
+         "3007a0ee-0e0a-4c30-918d-6c701f766e41",
+         "ba1bed83-000c-4bdd-8fa9-b5df08911d44",
+         "3a96f897-66b7-4370-a250-be86b9535992",
+         "b12e1a1f-984f-467f-acfc-b9acf1a00ddc",
+         "9df96e02-f81e-43d0-a200-057d269fccd2",
+         "4eb6a7e3-a973-410b-a439-b224fabc266c",
+         "d8781d4d-a690-4d1e-adc3-4c029054bfff",
+         "475311b1-79eb-4868-9ffb-30056e70d8c4",
+         "fcee849d-18b8-4a74-bacf-4db45972397d"
+      ],
+      "race_summaries":{
+         "3007a0ee-0e0a-4c30-918d-6c701f766e41":{
+            "race_id":"3007a0ee-0e0a-4c30-918d-6c701f766e41",
+            "race_name":"3Yo Cadeceus Club Classic Prelude No.3 Ms Pace",
+            "race_number":9,
+            "meeting_id":"4093720a-86b4-4d9a-88b7-3d0be2ce26a2",
+            "meeting_name":"Gloucester Park",
+            "category_id":"161d9be2-e909-4326-8c2c-35ed71fb460b",
+            "advertised_start":{
+               "seconds":1745586480
+            },
+            "race_form":{
+               "distance":2130,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "weather":{
+                  "id":"01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+                  "name":"Fine",
+                  "short_name":"fine",
+                  "icon_uri":"Fine"
+               },
+               "weather_id":"01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+               "race_comment":"CYCLONE JORDY (6) is an exciting prospect who stretched his unbeaten run in WA to seven when he led and proved too speedy last time. Draws deeper but came from even wider than this three back and was just too good. Looks the winner again. SCOOTER B (3) returns from a spell of four-and-a-half months having won his only two WA starts since crossing from NZ. Comes up against a smart one but draws well and has upside. CONTROL THE ROOM (1) came from the back row to win last start so can go well from the ace draw. CAPTAIN STIRLING (2) is next best. Something for the Multiples: CYCLONE JORDY NZ (6) SCOOTER B NZ (3)",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Gloucester Park\",\"state\":\"WA\",\"country\":\"AUS\",\"number\":9,\"race_name\":\"3Yo Cadeceus Club Classic Prelude No.3 Ms Pace\",\"time\":\"2025-04-25T13:08:00Z\",\"class\":\"No NR\",\"start_type\":\"Mobile\",\"prizemonies\":{\"total_value\":21000},\"localised_prizemonies\":{\"AUD\":{\"10th\":208,\"1st\":12058,\"2nd\":3742,\"3rd\":1923,\"4th\":988,\"5th\":624,\"6th\":208,\"7th\":208,\"8th\":208,\"9th\":208,\"total_value\":21000},\"NZD\":{\"10th\":229,\"1st\":13264,\"2nd\":4116,\"3rd\":2115,\"4th\":1087,\"5th\":686,\"6th\":229,\"7th\":229,\"8th\":229,\"9th\":229,\"total_value\":23100}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"P\",\"track_home_straight_metres\":0,\"track_circumference\":805}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"CYCLONE JORDY (6) is an exciting prospect who stretched his unbeaten run in WA to seven when he led and proved too speedy last time. Draws deeper but came from even wider than this three back and was just too good. Looks the winner again. SCOOTER B (3) returns from a spell of four-and-a-half months having won his only two WA starts since crossing from NZ. Comes up against a smart one but draws well and has upside. CONTROL THE ROOM (1) came from the back row to win last start so can go well from the ace draw. CAPTAIN STIRLING (2) is next best. Something for the Multiples: CYCLONE JORDY NZ (6) SCOOTER B NZ (3)"
+            },
+            "venue_id":"05292847-04ca-4d86-bf1c-b83887d6fe67",
+            "venue_name":"Gloucester Park",
+            "venue_state":"WA",
+            "venue_country":"AUS"
+         },
+         "3a96f897-66b7-4370-a250-be86b9535992":{
+            "race_id":"3a96f897-66b7-4370-a250-be86b9535992",
+            "race_name":"1M Stakes",
+            "race_number":2,
+            "meeting_id":"cca11ee7-5295-483e-b79d-2eb6041c0402",
+            "meeting_name":"Rome",
+            "category_id":"4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "advertised_start":{
+               "seconds":1745586600
+            },
+            "race_form":{
+               "distance":1600,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "race_comment":"NEWTOWNABBEY (9) Ran 5th last run here. May see an upturn in form and hard to fault at this trip. Will give a big sight. INFINITY DREAM (6) Honest race when 3rd last run at this track. Jockey Samuele Diana and trainer Melania Cascione are a strong combination. Strong chance. MARCALYX (8) Came in 4th last start here. Has the ability to turn things around. Good prospects. ATOMIC GREY (2) Ran 6th last time around here but facing an increased distance. Rises in weight. Can go on with it.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Rome\",\"state\":\"ITA\",\"country\":\"ITA\",\"number\":2,\"race_name\":\"1M Stakes\",\"time\":\"2025-04-25T13:10:00Z\",\"class\":\"\",\"start_type\":\"\",\"prizemonies\":null,\"localised_prizemonies\":null,\"rail_position\":\"\",\"track_direction\":\"\",\"track_surface\":\"\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"NEWTOWNABBEY (9) Ran 5th last run here. May see an upturn in form and hard to fault at this trip. Will give a big sight. INFINITY DREAM (6) Honest race when 3rd last run at this track. Jockey Samuele Diana and trainer Melania Cascione are a strong combination. Strong chance. MARCALYX (8) Came in 4th last start here. Has the ability to turn things around. Good prospects. ATOMIC GREY (2) Ran 6th last time around here but facing an increased distance. Rises in weight. Can go on with it."
+            },
+            "venue_id":"a8132026-40b5-488c-8716-8e8c3a4305d2",
+            "venue_name":"Rome",
+            "venue_state":"ITA",
+            "venue_country":"ITA"
+         },
+         "475311b1-79eb-4868-9ffb-30056e70d8c4":{
+            "race_id":"475311b1-79eb-4868-9ffb-30056e70d8c4",
+            "race_name":"Sires On Ice (Wa) Mandurah Derby H",
+            "race_number":8,
+            "meeting_id":"0230d40f-eaf5-4a0b-a4a4-ec2a0cc18353",
+            "meeting_name":"Mandurah",
+            "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start":{
+               "seconds":1745587320
+            },
+            "race_form":{
+               "distance":488,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "weather":{
+                  "id":"08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+                  "name":"FINE",
+                  "short_name":"fine",
+                  "icon_uri":"FINE"
+               },
+               "weather_id":"08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+               "race_comment":"ICONIC JET (5) boasts a consistent overall record including 15 wins from 23 starts, the latest winning (22.13) over 400m at this track. Form here excellent including six wins. Super consistent and looks a key player. WEST ON COLE (1) used the rails draw to advantage to get home last time at Cannington over 381m (21.61), scoring by 3.5 lengths. Hard to beat again here. MALCOLM BYTE (2) hit the frame latest (27.65) when second at this track in a Grade 5. Makes strong appeal on best. BOILER MAKER (8) comes into calculations after placing at a short quote most recently.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Mandurah\",\"state\":\"WA\",\"country\":\"AUS\",\"number\":8,\"race_name\":\"Sires On Ice (Wa) Mandurah Derby H\",\"time\":\"2025-04-25T13:22:00Z\",\"class\":\"OPEN\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":6931},\"localised_prizemonies\":{\"AUD\":{\"1st\":4586,\"2nd\":1400,\"3rd\":700,\"4th\":245,\"total_value\":6931},\"NZD\":{\"1st\":5045,\"2nd\":1540,\"3rd\":770,\"4th\":270,\"total_value\":7624}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"ICONIC JET (5) boasts a consistent overall record including 15 wins from 23 starts, the latest winning (22.13) over 400m at this track. Form here excellent including six wins. Super consistent and looks a key player. WEST ON COLE (1) used the rails draw to advantage to get home last time at Cannington over 381m (21.61), scoring by 3.5 lengths. Hard to beat again here. MALCOLM BYTE (2) hit the frame latest (27.65) when second at this track in a Grade 5. Makes strong appeal on best. BOILER MAKER (8) comes into calculations after placing at a short quote most recently."
+            },
+            "venue_id":"3c08f985-daf2-4cf4-b15e-4a472d81acf4",
+            "venue_name":"Mandurah",
+            "venue_state":"WA",
+            "venue_country":"AUS"
+         },
+         "4eb6a7e3-a973-410b-a439-b224fabc266c":{
+            "race_id":"4eb6a7e3-a973-410b-a439-b224fabc266c",
+            "race_name":"Irish Stallion Farms Ebf (C \u0026 G) Maiden",
+            "race_number":2,
+            "meeting_id":"5bcb7dea-916e-4889-be6a-bf8b27c12012",
+            "meeting_name":"Limerick",
+            "category_id":"4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "advertised_start":{
+               "seconds":1745587020
+            },
+            "race_form":{
+               "distance":1408,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"906cd562-a37c-11e7-a5c6-0ab32e6ac8d2",
+                  "name":"Soft",
+                  "short_name":"soft"
+               },
+               "track_condition_id":"906cd562-a37c-11e7-a5c6-0ab32e6ac8d2",
+               "weather":{
+                  "id":"0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
+                  "name":"Overcast",
+                  "short_name":"overcast",
+                  "icon_uri":"Overcast"
+               },
+               "weather_id":"0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
+               "race_comment":"HOSTILITY (9) was knocking on the door before a six-month spell. Signed off with a solid placing over 1408m at Dundalk. Well-placed to break through. ADMIRAL CHURCHILL (1) failed to fire resuming at Curragh though was prominent early. Finds a more suitable assignment. RAYKIR (12) is improving with each run this prep finishing a close fifth last start at Dundalk. Looks ready to peak. BROADSTONE (7) was well held resuming. Fitter and can take a step forward among this company.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Limerick\",\"state\":\"IRL\",\"country\":\"IRE\",\"number\":2,\"race_name\":\"Irish Stallion Farms Ebf (C \\u0026 G) Maiden\",\"time\":\"2025-04-25T13:17:00Z\",\"class\":\"MDN\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":26752},\"localised_prizemonies\":{\"AUD\":{\"1st\":17676,\"2nd\":5692,\"3rd\":2696,\"4th\":1198,\"5th\":599,\"6th\":300,\"total_value\":26752},\"NZD\":{\"1st\":19444,\"2nd\":6261,\"3rd\":2966,\"4th\":1318,\"5th\":659,\"6th\":330,\"total_value\":29427}},\"rail_position\":\"True\",\"track_direction\":\"Right\",\"track_surface\":\"Turf\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"HOSTILITY (9) was knocking on the door before a six-month spell. Signed off with a solid placing over 1408m at Dundalk. Well-placed to break through. ADMIRAL CHURCHILL (1) failed to fire resuming at Curragh though was prominent early. Finds a more suitable assignment. RAYKIR (12) is improving with each run this prep finishing a close fifth last start at Dundalk. Looks ready to peak. BROADSTONE (7) was well held resuming. Fitter and can take a step forward among this company."
+            },
+            "venue_id":"be11b6a2-d4a0-45da-a8a5-f27072b82e3e",
+            "venue_name":"Limerick",
+            "venue_state":"IRL",
+            "venue_country":"IRE"
+         },
+         "9df96e02-f81e-43d0-a200-057d269fccd2":{
+            "race_id":"9df96e02-f81e-43d0-a200-057d269fccd2",
+            "race_name":"500Mtrs (A5)",
+            "race_number":2,
+            "meeting_id":"5c9b51af-f182-4493-bf4a-dabcb4921d57",
+            "meeting_name":"Towcester Bags",
+            "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start":{
+               "seconds":1745586960
+            },
+            "race_form":{
+               "distance":500,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"9d03760c-88d2-4c89-9611-ae6eb7cdb76c",
+                  "name":"Synthetic",
+                  "short_name":"synthetic"
+               },
+               "track_condition_id":"9d03760c-88d2-4c89-9611-ae6eb7cdb76c",
+               "race_comment":"GARNACHO GIRL (5) showed blistering pace early and gave a sight when in the minors, beaten 1.3 lengths over 500m this track in 29.73. One of the contenders. ROMEO ELITE (3) stalked the lead and fought on well to finish 3 lengths away in third (29.89) at this track in an A5 over 500m. Remains without a win from the draw but has been in the placings two times from three attempts. Expected to feature again. VINEGARHILL BELL (4) is a last-start placegetter from this box - in the mix again. DARING SUN (1) scored two back then drifted back and missed the frame latest finishing a 6 length 5th at this track (30.10). A big run wouldn't surprise.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Towcester Bags\",\"state\":\"UK\",\"country\":\"UK\",\"number\":2,\"race_name\":\"500Mtrs (A5)\",\"time\":\"2025-04-25T13:16:00Z\",\"class\":\"A5\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":568},\"localised_prizemonies\":{\"AUD\":{\"1st\":238,\"2nd\":83,\"3rd\":83,\"4th\":83,\"5th\":83,\"total_value\":568},\"NZD\":{\"1st\":262,\"2nd\":91,\"3rd\":91,\"4th\":91,\"5th\":91,\"total_value\":625}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"GARNACHO GIRL (5) showed blistering pace early and gave a sight when in the minors, beaten 1.3 lengths over 500m this track in 29.73. One of the contenders. ROMEO ELITE (3) stalked the lead and fought on well to finish 3 lengths away in third (29.89) at this track in an A5 over 500m. Remains without a win from the draw but has been in the placings two times from three attempts. Expected to feature again. VINEGARHILL BELL (4) is a last-start placegetter from this box - in the mix again. DARING SUN (1) scored two back then drifted back and missed the frame latest finishing a 6 length 5th at this track (30.10). A big run wouldn't surprise."
+            },
+            "venue_id":"8d3bedc2-6367-4077-9f19-125440c71c47",
+            "venue_name":"Towcester Bags",
+            "venue_state":"UK",
+            "venue_country":"UK"
+         },
+         "b12e1a1f-984f-467f-acfc-b9acf1a00ddc":{
+            "race_id":"b12e1a1f-984f-467f-acfc-b9acf1a00ddc",
+            "race_name":"Pgr On Sky Sports Red Button",
+            "race_number":12,
+            "meeting_id":"e194ecdb-8333-4328-91c2-cb1778d3c848",
+            "meeting_name":"Central Park Bags",
+            "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start":{
+               "seconds":1745586840
+            },
+            "race_form":{
+               "distance":491,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "race_comment":"SWIFT ELLA (2) stuck on well last time to finish 0.8 lengths back in second (30.07) at this track in an A4 over 491m. Yet to win out of this box but has been in the placings three times from four starts. Rates highly and will give a great sight. KYERO GIRL (5) finished third two starts back before missing the placings at her latest appearance in an A3 at this track over 491m (30.70). Should improve sharply this easier company. ROANNA DEBT (3) doesn't have the best strike-rate. Finished in the minors latest when third (30.27) at this track and may be close to breaking through. Expected to be in the finish again. HOLLYOAK MAGGIE (1) should bounce back after an unplaced effort here recently.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Central Park Bags\",\"state\":\"UK\",\"country\":\"UK\",\"number\":12,\"race_name\":\"Pgr On Sky Sports Red Button\",\"time\":\"2025-04-25T13:14:00Z\",\"class\":\"A4\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":795},\"localised_prizemonies\":{\"AUD\":{\"1st\":300,\"2nd\":124,\"3rd\":124,\"4th\":124,\"5th\":124,\"total_value\":795},\"NZD\":{\"1st\":330,\"2nd\":136,\"3rd\":136,\"4th\":136,\"5th\":136,\"total_value\":875}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"SWIFT ELLA (2) stuck on well last time to finish 0.8 lengths back in second (30.07) at this track in an A4 over 491m. Yet to win out of this box but has been in the placings three times from four starts. Rates highly and will give a great sight. KYERO GIRL (5) finished third two starts back before missing the placings at her latest appearance in an A3 at this track over 491m (30.70). Should improve sharply this easier company. ROANNA DEBT (3) doesn't have the best strike-rate. Finished in the minors latest when third (30.27) at this track and may be close to breaking through. Expected to be in the finish again. HOLLYOAK MAGGIE (1) should bounce back after an unplaced effort here recently."
+            },
+            "venue_id":"eab96f27-bd76-4d4e-b5e7-f954e59001cd",
+            "venue_name":"Central Park Bags",
+            "venue_state":"UK",
+            "venue_country":"UK"
+         },
+         "ba1bed83-000c-4bdd-8fa9-b5df08911d44":{
+            "race_id":"ba1bed83-000c-4bdd-8fa9-b5df08911d44",
+            "race_name":"De Vaudranpont Maiden Stakes",
+            "race_number":3,
+            "meeting_id":"97ede470-8ca1-4fb0-b476-7dfc6c23aec2",
+            "meeting_name":"Compiegne",
+            "category_id":"4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "advertised_start":{
+               "seconds":1745586540
+            },
+            "race_form":{
+               "distance":1400,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"906cd562-a37c-11e7-a5c6-0ab32e6ac8d2",
+                  "name":"Soft",
+                  "short_name":"soft"
+               },
+               "track_condition_id":"906cd562-a37c-11e7-a5c6-0ab32e6ac8d2",
+               "weather":{
+                  "id":"0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
+                  "name":"Overcast",
+                  "short_name":"overcast",
+                  "icon_uri":"Overcast"
+               },
+               "weather_id":"0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
+               "race_comment":"LORIA (7) resumed with a 4.75L fourth over 1600m at Fontainebleau. Selected to break through for her first win. CHIVERE (8) rates a major threat following a 4.75L third in a 1400m maiden at Fontainebleau. SPRING HEART (6) placed second beaten 3L in that 1400m race. Bold show expected. Adopting blinkers for the first time RECLAIM (2) enters calculations having finished 8.5L fourth tackling a 1600m maiden at Fontainebleau.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Compiegne\",\"state\":\"FR\",\"country\":\"FR\",\"number\":3,\"race_name\":\"De Vaudranpont Maiden Stakes\",\"time\":\"2025-04-25T13:09:00Z\",\"class\":\"MDN\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":31088},\"localised_prizemonies\":{\"AUD\":{\"1st\":15544,\"2nd\":6218,\"3rd\":4663,\"4th\":3109,\"5th\":1554,\"total_value\":31088},\"NZD\":{\"1st\":17098,\"2nd\":6840,\"3rd\":5129,\"4th\":3420,\"5th\":1709,\"total_value\":34197}},\"rail_position\":\"True\",\"track_direction\":\"Left\",\"track_surface\":\"Turf\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"LORIA (7) resumed with a 4.75L fourth over 1600m at Fontainebleau. Selected to break through for her first win. CHIVERE (8) rates a major threat following a 4.75L third in a 1400m maiden at Fontainebleau. SPRING HEART (6) placed second beaten 3L in that 1400m race. Bold show expected. Adopting blinkers for the first time RECLAIM (2) enters calculations having finished 8.5L fourth tackling a 1600m maiden at Fontainebleau."
+            },
+            "venue_id":"0d27e341-931b-419b-b7cc-6f7727a089fb",
+            "venue_name":"Compiegne",
+            "venue_state":"FR",
+            "venue_country":"FR"
+         },
+         "c11473f8-87d3-4343-8d1a-6b0abaae4398":{
+            "race_id":"c11473f8-87d3-4343-8d1a-6b0abaae4398",
+            "race_name":"Race 12",
+            "race_number":12,
+            "meeting_id":"6e105aae-d770-4617-b1bb-af0008270870",
+            "meeting_name":"Hove Bags",
+            "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start":{
+               "seconds":1745586420
+            },
+            "race_form":{
+               "distance":500,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "race_comment":"PUNK ROCK IVY (3) followed a minor placing two runs ago with a plain effort last time to finish fifth, beaten 2.5 lengths, in an A6 at this track over 500m (30.53). Back in grade and rates a key player on best. Worth another try. CAMP CHARLIE (5) was a course and distance placegetter (30.16) last time also from the same draw, finishing a 6 length third in an A7. Leading player again. PARADISE HAILEY (1) turned in a better effort at this track last start, finishing third behind Tullamore Prince (30.26) in an A7. Turned chasing the leaders but kept coming. Can measure up. CRYSTAL PRINCE (2) is in the mix despite missing out at this track last time.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Hove Bags\",\"state\":\"UK\",\"country\":\"UK\",\"number\":12,\"race_name\":\"Race 12\",\"time\":\"2025-04-25T13:07:00Z\",\"class\":\"A7\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":723},\"localised_prizemonies\":{\"AUD\":{\"1st\":269,\"2nd\":114,\"3rd\":114,\"4th\":114,\"5th\":114,\"total_value\":723},\"NZD\":{\"1st\":296,\"2nd\":125,\"3rd\":125,\"4th\":125,\"5th\":125,\"total_value\":795}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"PUNK ROCK IVY (3) followed a minor placing two runs ago with a plain effort last time to finish fifth, beaten 2.5 lengths, in an A6 at this track over 500m (30.53). Back in grade and rates a key player on best. Worth another try. CAMP CHARLIE (5) was a course and distance placegetter (30.16) last time also from the same draw, finishing a 6 length third in an A7. Leading player again. PARADISE HAILEY (1) turned in a better effort at this track last start, finishing third behind Tullamore Prince (30.26) in an A7. Turned chasing the leaders but kept coming. Can measure up. CRYSTAL PRINCE (2) is in the mix despite missing out at this track last time."
+            },
+            "venue_id":"da509302-f437-4131-81f7-0df3d0cff5d5",
+            "venue_name":"Hove Bags",
+            "venue_state":"UK",
+            "venue_country":"UK"
+         },
+         "d8781d4d-a690-4d1e-adc3-4c029054bfff":{
+            "race_id":"d8781d4d-a690-4d1e-adc3-4c029054bfff",
+            "race_name":"Racing Today Mr 90 Handicap",
+            "race_number":6,
+            "meeting_id":"dce48f42-f511-49ba-bf5a-12f9e15c4811",
+            "meeting_name":"Fairview",
+            "category_id":"4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "advertised_start":{
+               "seconds":1745587200
+            },
+            "race_form":{
+               "distance":1200,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"9d03760c-88d2-4c89-9611-ae6eb7cdb76c",
+                  "name":"Synthetic",
+                  "short_name":"synthetic"
+               },
+               "track_condition_id":"9d03760c-88d2-4c89-9611-ae6eb7cdb76c",
+               "weather":{
+                  "id":"01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+                  "name":"Fine",
+                  "short_name":"fine",
+                  "icon_uri":"Fine"
+               },
+               "weather_id":"01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+               "race_comment":"DUBAI HILLS (7) ran on well when winning his last start over this course and distance. He is in a good space and can follow up with another victory. WHATEVER NEXT (4) missed the placings two runs back then improved last start when he worked home well over 1200m at this track. Likely improver with strong prospects. MOVING IN (3) is another from the powerful Alan Greeff stable. She finished off her last race well over 1000m on this course. She would have come on from the run and should strip much fitter. With a bit of luck in the running should give the males a run for their money. GOLDEN PAVILION (8) resumes today after filling a placing at his last appearance at Fairview over 1400m. Sure to make his presence felt.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Fairview\",\"state\":\"ZAF\",\"country\":\"SAF\",\"number\":6,\"race_name\":\"Racing Today Mr 90 Handicap\",\"time\":\"2025-04-25T13:20:00Z\",\"class\":\"RBH90\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":9075},\"localised_prizemonies\":{\"AUD\":{\"1st\":5600,\"2nd\":1800,\"3rd\":900,\"4th\":400,\"5th\":200,\"total_value\":9075},\"NZD\":{\"1st\":6160,\"2nd\":1980,\"3rd\":990,\"4th\":440,\"5th\":220,\"total_value\":9982}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"Synthetic\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"DUBAI HILLS (7) ran on well when winning his last start over this course and distance. He is in a good space and can follow up with another victory. WHATEVER NEXT (4) missed the placings two runs back then improved last start when he worked home well over 1200m at this track. Likely improver with strong prospects. MOVING IN (3) is another from the powerful Alan Greeff stable. She finished off her last race well over 1000m on this course. She would have come on from the run and should strip much fitter. With a bit of luck in the running should give the males a run for their money. GOLDEN PAVILION (8) resumes today after filling a placing at his last appearance at Fairview over 1400m. Sure to make his presence felt."
+            },
+            "venue_id":"12fa0507-b6b4-4e46-a796-187df64cd6e6",
+            "venue_name":"Fairview",
+            "venue_state":"ZAF",
+            "venue_country":"SAF"
+         },
+         "fcee849d-18b8-4a74-bacf-4db45972397d":{
+            "race_id":"fcee849d-18b8-4a74-bacf-4db45972397d",
+            "race_name":"Race 1",
+            "race_number":1,
+            "meeting_id":"e08f7cc3-f727-4249-9b97-cd89e888ee8f",
+            "meeting_name":"Swindon Bags",
+            "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start":{
+               "seconds":1745587380
+            },
+            "race_form":{
+               "distance":476,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "race_comment":"EAGLES ONLY (2) broke a string of placings finishing in the money four on end before a last start fifth (29.92) at this track. Shapes as one to consider. ASHWAY BECKI (3) was out of the frame here most recently but can atone. HEADFORD ALANA (6) has found the minor placings here at last couple of runs, finishing third last time beaten 7 lengths (29.82). Remains without a win from the draw but has been in the placings eight times from 14 attempts. Well-placed to take this out. MOHICAN BANANA (5) has been hard to follow lately, running fourth (29.87) last time but prior to that ran very well when placed at this track. Key player on best and expected to bounce back.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Swindon Bags\",\"state\":\"UK\",\"country\":\"UK\",\"number\":1,\"race_name\":\"Race 1\",\"time\":\"2025-04-25T13:23:00Z\",\"class\":\"A9\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":702},\"localised_prizemonies\":{\"AUD\":{\"1st\":186,\"2nd\":103,\"3rd\":103,\"4th\":103,\"5th\":103,\"6th\":103,\"total_value\":702},\"NZD\":{\"1st\":205,\"2nd\":113,\"3rd\":113,\"4th\":113,\"5th\":113,\"6th\":113,\"total_value\":772}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"EAGLES ONLY (2) broke a string of placings finishing in the money four on end before a last start fifth (29.92) at this track. Shapes as one to consider. ASHWAY BECKI (3) was out of the frame here most recently but can atone. HEADFORD ALANA (6) has found the minor placings here at last couple of runs, finishing third last time beaten 7 lengths (29.82). Remains without a win from the draw but has been in the placings eight times from 14 attempts. Well-placed to take this out. MOHICAN BANANA (5) has been hard to follow lately, running fourth (29.87) last time but prior to that ran very well when placed at this track. Key player on best and expected to bounce back."
+            },
+            "venue_id":"a46b9f0b-45b0-45ec-9e9a-1652c551f0bf",
+            "venue_name":"Swindon Bags",
+            "venue_state":"UK",
+            "venue_country":"UK"
+         }
+      }
+   },
+   "message":"Next 10 races from each category"
+}

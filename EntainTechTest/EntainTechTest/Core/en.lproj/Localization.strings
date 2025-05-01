@@ -1,0 +1,30 @@
+/* 
+  nntg.strings
+  EntainTechTest
+
+  Created by David Wright on 26/4/2025.
+  
+*/
+
+// Launch Splash
+
+"launch.view.button.title" = "Neds Next To Go!";
+
+// Races
+
+"races.view.navigation.title" = "Ned's Next To Go";
+"races.view.picker.item.horse.accessibilityLabel" = "Horse racing filter";
+"races.view.picker.item.greyhound.accessibilityLabel" = "Greyhound racing filter";
+"races.view.picker.item.horse.accessibilityLabel" = "Harness racing filter";
+"races.view.picker.item.all.accessibilityLabel" = "All races";
+
+// Race
+
+"race.view.race.number" = "Race ";
+"race.view.race.type.horse" = "Horses";
+"race.view.race.type.greyhound" = "Greyhounds";
+"race.view.race.type.harness" = "Harness's";
+"race.view.timer.middle" = "and";
+"race.view.timer.timeToGo" = "seconds to go";
+"race.view.timer.jumped" = "Race has jumped!";
+
